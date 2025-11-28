@@ -2,7 +2,9 @@
 
 #Información
 Materia: Paradigmas de Programación
+
 Alumno: Santiago Tomas Leguizamon
+
 Documento: 43525672
 
 ## 🎥 Video de demostración del proyecto
