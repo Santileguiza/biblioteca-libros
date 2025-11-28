@@ -1,8 +1,14 @@
 # READ ME .Proyecto Final - Biblioteca (Java + JDBC + Swing + Patrones)
 
+#Información
 Materia: Paradigmas de Programación
 Alumno: Santiago Tomas Leguizamon
 Documento: 43525672
+
+## 🎥 Video de demostración del proyecto
+Puedes ver el funcionamiento completo aquí:
+
+https://drive.google.com/drive/u/0/folders/1AabBFOlvOcT5g6j5UuuI5CIUu5wlnWWg
 
 ## Resumen
 Aplicación de BIBLIOTECA para gestionar el CRUD de libros.
